@@ -1,2 +1,6 @@
-https://github.com/dorivan-almeida/digitalhouse.gi
-https://github.com/dorivan-almeida/digitalhouse.gii
+primeira alteracao
+https://github.com/dorivan-almeida/digitalhouse.git
+
+
+segunda alteracao
+este arquivo foi alterado pela segunda vez
